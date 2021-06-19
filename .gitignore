@@ -127,3 +127,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# -------
+catch/*.7z
+pythonProject/data/
+pythonProject/data_/
+pythonProject/data_xf/
+pythonProject/dataraw/
+pythonProject/dataxf/
+pythonProject/log/
+pythonProject/newdata/
+pythonProject/rawdata/
+pythonProject/全法docx/
+pythonProject1/*.pptx
+pythonProject1/data/
+pythonProject/keywords/
+.idea/
+pythonProject1/model/
+pythonProject1/logdir/
